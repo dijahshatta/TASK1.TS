@@ -1,0 +1,22 @@
+.try{
+    margin-top: 25vh;
+}
+.section2, .section3 {
+    height: 90vh !important;
+}
+.height{
+    height: 50%;
+}
+.form-prt{
+    width: 50%;
+    justify-content: center;
+}
+.board img{
+    width: 70%;
+}
+.section4{
+    background-color: white;
+}
+.section5{
+    height: 75vh;
+}
